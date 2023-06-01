@@ -1,0 +1,24 @@
+#historia{
+    font-size: 25px;
+    padding-top:60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+ #div{
+     border: solid 30px rgb(8, 48, 8);
+ }
+ #Texto{
+     padding-top: 100px;
+     text-align: center;
+     background-color: rgb(140, 142, 145);
+     width: 1250px;
+     height: 350px;
+     opacity: 70%;
+ }
+ #imagem{
+     text-align: center;
+     padding-top: 20px;
+     display:block
+ }
+ #body{
+    background-image: url(7A142537-240D-4A28-959E-9B63BC3F9263.jpg);
+ }
